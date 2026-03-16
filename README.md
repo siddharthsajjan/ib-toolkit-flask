@@ -1,6 +1,6 @@
 # ib-toolkit-flask
 
-# IB Toolkit
+
 
 A full investment banking valuation suite — DCF, Comps, 3-Statement Model, Earnings Screener.
 
